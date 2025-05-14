@@ -75,7 +75,7 @@ The dataset was built from the **New Concept English** textbook series (Volumes 
 
 ## 📊 Poster
 
-![Project Poster](images/nlu_poster.png)
+![Project Poster](images/nlu_poster.jpg)
 
 ---
 
